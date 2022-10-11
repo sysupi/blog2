@@ -1,7 +1,8 @@
 ---
 layout : post
 title : "credit fraud"
-autor: "sysupi"
+author: "sysupi"
+tags: Kaggle
 ---
 
 <h1 align="center"> Credit Fraud Detector </h1>
