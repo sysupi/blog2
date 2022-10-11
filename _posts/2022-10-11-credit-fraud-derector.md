@@ -1,3 +1,8 @@
+---
+layout : post
+title : "credit fraud"
+autor: "sysupi"
+---
 
 <h1 align="center"> Credit Fraud Detector </h1>
 
